@@ -1,0 +1,11 @@
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\obj\Debug\netcoreapp2.2\week 6 challenges.csprojAssemblyReference.cache
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\obj\Debug\netcoreapp2.2\week 6 challenges.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\obj\Debug\netcoreapp2.2\week 6 challenges.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\obj\Debug\netcoreapp2.2\week 6 challenges.AssemblyInfo.cs
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\bin\Debug\netcoreapp2.2\week 6 challenges.deps.json
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\bin\Debug\netcoreapp2.2\week 6 challenges.runtimeconfig.json
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\bin\Debug\netcoreapp2.2\week 6 challenges.runtimeconfig.dev.json
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\bin\Debug\netcoreapp2.2\week 6 challenges.dll
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\bin\Debug\netcoreapp2.2\week 6 challenges.pdb
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\obj\Debug\netcoreapp2.2\week 6 challenges.dll
+c:\Users\User\Desktop\htc-cs-101-2\week 6\week 6 challenges\obj\Debug\netcoreapp2.2\week 6 challenges.pdb
